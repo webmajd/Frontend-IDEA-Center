@@ -50,7 +50,6 @@ Each component is designed to be self-contained and easy to understand, allowing
 
 - **Responsive Sidebar:** A sleek, collapsible sidebar for easy navigation between different ideas.
 - **Creative Components:** A variety of unique components including:
-  - **Login Form:** A modern and stylish login form design.
   - **Profile Card:** An elegant card to display user profile information.
   - **Product Card:** A clean and attractive card for showcasing products.
 - **Pure CSS & JS:** Built with vanilla CSS and JavaScript, without any external libraries or frameworks.
@@ -64,8 +63,7 @@ Each component is designed to be self-contained and easy to understand, allowing
 
 - **سایدبار واکنش‌گرا:** یک سایدبار زیبا و جمع‌شونده برای ناوبری آسان بین ایده‌های مختلف.
 - **کامپوننت‌های خلاقانه:** مجموعه‌ای از کامپوننت‌های منحصر به فرد شامل:
-  - **فرم ورود:** یک طراحی فرم ورود مدرن و شیک.
-  - **کارت پروفایل:** کارتی زیبا برای نمایش اطلاعات پروفایل کاربر.
+  - **کارت پروفایل:** کارتی زیبا برای نمایش اطلاعات.
   - **کارت محصول:** کارتی ساده و جذاب برای نمایش محصولات.
 - **CSS و JS خالص:** ساخته شده با CSS و JavaScript خام، بدون هیچ‌گونه کتابخانه یا فریم‌ورک خارجی.
 - **کد ساختاریافته:** کد تمیز، کامنت‌گذاری شده و سازمان‌یافته برای خوانایی و نگهداری بهتر.
@@ -80,7 +78,7 @@ This project is built using fundamental web technologies, ensuring lightness and
 
 * **HTML5**
 * **CSS3**
-* **JavaScript (ES6)**
+* **JavaScript**
 
 ---
 
@@ -118,8 +116,8 @@ The primary use of this project is for learning and inspiration. You can:
 The project structure is straightforward:
 - `index.html`: The main entry point containing the HTML structure.
 - `style.css`: All the styles for the layout and components.
-- `script.js`: The JavaScript logic for interactive elements like the sidebar.
-- `images/`: Contains all the images used in the project.
+- `theme.js`: The JavaScript logic for interactive elements like the sidebar.
+- `img/`: Contains all the images used in the project.
 
 </div>
 
@@ -184,7 +182,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact | تماس
 
-Majid - [@webmajd](https://github.com/webmajd) - webmajd@gmail.com
+Majd - [@webmajd](https://github.com/webmajd) - webmajdcom@gmail.com
 
 Project Link: [https://github.com/webmajd/Frontend-IDEA-Center](https://github.com/webmajd/Frontend-IDEA-Center)
 
